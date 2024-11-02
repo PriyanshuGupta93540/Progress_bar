@@ -1,0 +1,13 @@
+.container {
+  width: 400px;
+  height: 30px;
+  background-color: silver;
+  border-radius: 26px;
+  margin-top: 20px;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
